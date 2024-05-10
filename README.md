@@ -25,6 +25,8 @@ The application works perfectly well, no bugs.
 HTML, CSS , REACT and TAILWIND.CSS
 ## Support and contact details
 email :: simonmwaura2090@gmail.com 
+       : shudkipz@gmail.com
+       
 
 Copyright (c) 2021 **Simon Mwaura & Shadrack Ngeno**
   
